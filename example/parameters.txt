@@ -1,0 +1,2 @@
+alignmentdir	.
+contigs	contig_names.txt

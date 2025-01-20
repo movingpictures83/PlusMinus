@@ -1,0 +1,2 @@
+Prefix plugins/PlusMinus/example/
+Plugin PlusMinus inputfile parameters.txt outputfile .
